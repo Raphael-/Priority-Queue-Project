@@ -1,0 +1,1 @@
+For more details about the implementation read project2-report (desctription of the project in Greek)
